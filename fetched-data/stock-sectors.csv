@@ -1,0 +1,135 @@
+sector,description,total_companies,link
+abrasives,The one that scraps away all inconsistencies,3,/abrasives
+advertising_media,The one that creates and distributes media content,11,/advertising-media
+agriculture,The one that gives us vegetables and fruits to eat,49,/agriculture
+air_conditioners,The one thats keeps it cool with no noise,6,/air-conditioners
+airlines,The one that takes us around the world in the shortest time,6,/airlines
+airport_management_services,The one that oversees it all in airports for your journey,2,/airport-management-services
+aluminium_aluminium_products,The one that can wrap up almost everything,18,/aluminium-aluminium-products
+amusement_parksrecreationclub,The one thats all about the fun stuff and food,4,/amusement-parksrecreationclub
+animal_feed,The one thats all about nutritious feeds for animals,5,/animal-feed
+aquaculture,The one that takes care of aquatic animals,8,/aquaculture
+auto_ancillary,The one that provides parts to keep our vehicles running,97,/auto-ancillary
+automobile_two_three_wheelers,The one that suits couples and smaller groups,8,/automobile-two-three-wheelers
+automobiles_dealers_distributors,The one that makes cars and buses available to public,7,/automobiles-dealers-distributors
+automobiles_passenger_cars,The one that lets families travel together comfortably,5,/automobiles-passenger-cars
+automobilestractors,The one that is used in farms or construction sites,2,/automobiles-tractors
+automobilestruckslcv,The one that transports goods efficiently,5,/automobiles-truckslcv
+bank_private,The one from where we give and take money,29,/bank-private
+bank_public,The one from where we give and take money,12,/bank-public
+batteries,The one that keeps the car running toy or real,9,/batteries
+bearings,The one that keeps it all smooth and constant,16,/bearings
+bpoites,The one to which all the IT work is delegated,39,/bpoites
+breweries_distilleries,The one that takes you away from reality,17,/breweries-distilleries
+business_support,The one that looks after businesses,39,/business-support
+cable,The one that works as railway tracks for electricity,26,/cable
+carbon_black,The one that aids in various products,3,/carbon-black
+castingsforgings,The one that gives a finishing touch to products,24,/castingsforgings
+cement_construction_materials,The one that binds and structures the building,42,/cement-construction-materials
+ceramicsmarblegranitesanitaryware,The one that forms the floor in urban homes,32,/ceramicsmarblegranitesanitaryware
+chemicals,The one that is a scientific form of magic,177,/chemicals
+cigarettestobacco,The one thats not cool and causes cancer,6,/cigarettestobacco
+compressors_pumps,The one that works like the heart of a motor,11,/compressors-pumps
+construction_real_estate,The one thats in charge of building our homes,179,/construction-real-estate
+construction_vehicles,The one always around at a construction site,5,/construction-vehicles
+consumer_durables_domestic_appliances,The one which keeps our home functioning,19,/consumer-durables-domestic-appliances
+consumer_durables_electronics,The one that brings comfort to domestic life,11,/consumer-durables-electronics
+consumer_food,The one that fulfils our hunger instantly,117,/consumer-food
+courier_services,The one that brings stuff to your door,4,/courier-services
+cycles,The one that lets you exercise as well as travel,1,/cycles
+defence,The one where the security matters,9,/defence
+depository_services,The one that stores our shares in the exchanges,3,/depository-services
+detergents_soaps,The one that cleans and makes things neat,2,/detergents-soaps
+diamond_jewellery,The one that costs high but enhances your look,53,/diamond-jewellery
+diesel_engines,The one that acts like oxygen for our cars,3,/diesel-engines
+diversified,The one that has a varied set of business,15,/diversified
+dyes_pigments,The one that colours our hair and fabricates our cloth,22,/dyes-pigments
+ecommerce,The one that lets you buy and sell anything anywhere,11,/e-commerce
+edible_oil,The one which is used to make our tasty snacks,24,/edible-oil
+educational_institutions,The one where primary knowledge is achieved,22,/educational-institutions
+electric_equipment,The one for which electricity was invented,80,/electric-equipment
+electrodes_welding_equipment,The one that transmits energy or binds metals,11,/electrodes-welding-equipment
+electronics_components,The ones that make electric circuits work,40,/electronics-components
+engineering,The one that involves Math and Science and Hard Work,47,/engineering
+engineering_construction,The one that plans designs and build all the buildings,143,/engineering-construction
+engineering_industrial_equipments,The one that provides elements to build things,154,/engineering-industrial-equipments
+engineering_consultancy,The one that bridges the gap between ideas and reality,11,/engineering-consultancy
+environmental_services,The one thats all about reduce reuse recycle,9,/environmental-services
+fasteners,The one that keeps things tight and together,4,/fasteners
+ferro_silica_manganese,The One that is present in our earth to help in activities,10,/ferro-silica-manganese
+fertilizers,The one that makes the soil fertile and effective,31,/fertilizers
+film_production_distribution_entertainment,The one that brings entertainment and movie,59,/film-production-distribution-entertainment
+finance_asset_management,The one with money managers and their returns,8,/finance-asset-management
+finance_housing,The one that helps in buying a dream house,24,/finance-housing
+finance_investment,The one that aids longterm goals  wealth,224,/finance-investment
+finance_nbfc,The one that is there for your financial needs,284,/finance-nbfc
+finance_others,The one that is present in financial services,16,/finance-others
+finance_stock_broking,The one that allows investors to buy and sell equities,64,/finance-stock-broking
+finance_term_lending,The one that lends you money for various use,9,/finance-term-lending
+fintech,The one where finance meets technology and shine,6,/fintech
+floriculture,The one that uses flowers to doll up a garden or occasion,3,/floriculture
+footwear,The one which keeps our feet strong and warm,10,/footwear
+forgings,The one that shapes metals using force,19,/forgings
+gas_transmissionmarketing,The one that transports and distributes gases,7,/gas-transmissionmarketing
+glass,The one that is used in both windows and crockery,10,/glass
+hospital_healthcare_services,The one that diagnoses prevents and cures us,55,/hospital-healthcare-services
+hotel_resort_restaurants,The one that is all about luxury comfort and fun,60,/hotel-resort-restaurants
+household_personal_products,The one that eases personal and domestic life,38,/household-personal-products
+industrial_gases_fuels,The one that is manufactured for industry use,14,/industrial-gases-fuels
+insurance,The one that protects you in an emergency,9,/insurance
+it_education,The one that teaches advanced technology,11,/it-education
+it_hardware,The one that forms tangible aspects of IT,16,/it-hardware
+it_networking,The one that aids in contacting people over internet,3,/it-networking
+it_software,The one that comprises IT programming and apps,229,/it-software
+laminatesdecoratives,The one that applies a film over things to make it beautiful,11,/laminatesdecoratives
+leather,The one that used to make shoes and bags,8,/leather
+logistics,The one that aids transportation of things,71,/logistics
+lubricants,The one that prevents friction and wear,8,/lubricants
+medical_equipmentsuppliesaccessories,The one that aids in treating people and saving lives,15,/medical-equipmentsuppliesaccessories
+metal_ferrous,The one that makes a structure stronger,6,/metal-ferrous
+metal_non_ferrous,The one that makes a structure stronger without iron,32,/metal-non-ferrous
+mining_minerals,The one that extracts minerals from mines,14,/mining-minerals
+miscellaneous,The one that could be anything anywhere,29,/miscellaneous
+oil_exploration,The one that comprises searching for fuel sources,12,/oil-exploration
+packaging,The one that processes and packs goods,23,/packaging
+paints,The one that colours and textures things,8,/paints
+paper_paper_products,The one that is used in printing packaging etc,51,/paper-paper-products
+pesticides_agrochemicals,The one that knocks out troubling agents from our food,31,/pesticides-agrochemicals
+petrochemicals,The one that comes from natural gas and petroleum,10,/petrochemicals
+pharmaceuticals_drugs,The one that prevents diagnoses and treats ailments,199,/pharmaceuticals-drugs
+photographic_products,The one that captures our inner image to scan injuries,4,/photographic-products
+plastic_products,The one that most containers are made of and we use daily,140,/plastic-products
+port,The one thats a parking lot for ships,3,/port
+power_generationdistribution,The one that primarily generates electricity,43,/power-generationdistribution
+printing_stationery,The one that schools and offices use the most,8,/printing-stationery
+printing_and_publishing,The one that gives us books and newspapers,27,/printing-and-publishing
+professional_services,The one that employs employees for other companies,33,/professional-services
+railways_wagons,The one that also rides on the train tracks,3,/railways-wagons
+ratings,The One that gives quality and financial ratings to other companies,3,/ratings
+refineries,The one that refines substances in industrial plants,7,/refineries
+refractories,The one which is used in furnaces kilns and reactors,11,/refractories
+restaurants,The one thats all about food that sells,8,/restaurants
+retailing,The one that displays products in stores for consumers,52,/retailing
+rubber_products,The one that gives elasticity from stationery to automobiles,18,/rubber-products
+ship_building,The one that designs and constructs ships,6,/ship-building
+shipping,The one that transfers product from via sea,15,/shipping
+solvent_extraction,The one that separates the useful components from debris,19,/solvent-extraction
+steel_iron_products,The one thats widely used as building materials,119,/steel-iron-products
+steelsponge_ironpig_iron,The one that is used as a substitute for Iron and Steel,13,/steelsponge-ironpig-iron
+sugar,The one that makes our food sweet,43,/sugar
+teacoffee,The one that energises people at work and home,24,/teacoffee
+telecominfrastructure,The one that builds you a network to communicate,5,/telecom-infrastructure
+telecommunication_equipment,The one that enables smooth communication,16,/telecommunication-equipment
+telecommunication_service_provider,The one that gives you a network to communicate,16,/telecommunication-service-provider
+textile,The one that forms the raw material for clothes,214,/textile
+textile_machinery,The one that makes clothes at a large scale,7,/textile-machinery
+textile_manmade_fibres,The one that is made from chemicals or plant fibres,22,/textile-manmade-fibres
+textile_spinning,The one that makes colourful yarns,84,/textile-spinning
+textile_weaving,The one that alters the cloth as per your size,22,/textile-weaving
+trading,The one that most businesses conduct,383,/trading
+transmission_towers_equipments,The one that aids the electricity power lines,2,/transmission-towers-equipments
+travel_services,The one that takes you to your favourite holidays,17,/travel-services
+tv_broadcasting_software_production,The one that brings you your favourite TV shows,32,/tv-broadcasting-software-production
+tyres_allied,The one that makes vehicles move,12,/tyres-allied
+watches_accessories,The one that makes your life more functional,2,/watches-accessories
+wood_wood_products,The one that is used in making furniture majorly,15,/wood-wood-products

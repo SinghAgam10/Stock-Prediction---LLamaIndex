@@ -1,0 +1,9 @@
+xmltodict==0.14.2
+requests==2.32.3
+setuptools==49.6.0
+beautifulsoup4
+aiohttp
+boto3
+pandas
+selenium
+tqdm
